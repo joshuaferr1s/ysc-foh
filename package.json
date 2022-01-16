@@ -8,6 +8,7 @@
   },
   "dependencies": {
     "@tailwindcss/forms": "^0.4.0",
+    "firebase": "^9.6.3",
     "mosha-vue-toastify": "^1.0.23",
     "vue": "^3.2.25",
     "vue-router": "^4.0.12"
