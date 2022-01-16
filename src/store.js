@@ -8,7 +8,26 @@ const mutations = {
   setUser: user => state.user = user,
 };
 
-const actions = {};
+const actions = {
+  errorToast: msg => {
+    createToast(msg, {
+      type: "danger",
+      transition: "slide",
+    });
+  },
+  infoToast: msg => {
+    createToast(msg, {
+      type: "info",
+      transition: "slide",
+    });
+  },
+  successToast: msg => {
+    createToast(msg, {
+      type: "success",
+      transition: "slide",
+    });
+  },
+};
 
 watch(
   () => state,
