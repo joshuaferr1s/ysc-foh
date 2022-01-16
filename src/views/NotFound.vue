@@ -6,6 +6,6 @@
       <span class="text-teal-400">4</span>
     </h1>
     <p class=" text-2xl text-gray-700 mb-6">Page not found</p>
-    <router-link to="/" class="text-cyan-500 hover:text-cyan-700">Return to the app</router-link>
+    <router-link to="/" class="text-cyan-500 hover:text-cyan-700 duration-200">Return to the app</router-link>
   </main>
 </template>
