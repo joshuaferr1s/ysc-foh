@@ -5,5 +5,6 @@
       <span class="text-slate-400">FoH</span>
     </h1>
     <p class="text-gray-600 text-md">York Student Cinema's ticketing system.</p>
+    <p>Made with 💜 by <a href="https://jajjferris.com" target="_blank" rel="nofollow noreferrer noopener" title="Go to Joshua Ferris's website" class="text-cyan-500 hover:text-cyan-700 duration-200">Joshua Ferris</a></p>
   </main>
 </template>
